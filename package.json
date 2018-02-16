@@ -1,0 +1,15 @@
+{
+  "name": "anujsharam",
+  "version": "1.0.0",
+  "description": "short demo mfor webpack integration",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack"
+  },
+  "author": "anujsharma",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.11.0"
+  }
+}
